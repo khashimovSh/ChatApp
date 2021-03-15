@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "908019899294",
+    "project_id": "chat-app-304ab",
+    "storage_bucket": "chat-app-304ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908019899294:android:538d9ac62e4d2a75ee548f",
+        "android_client_info": {
+          "package_name": "com.shakhzod.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908019899294-e36e6stmbr1tl4240f5fsbcngp79ng2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shakhzod.chatapp",
+            "certificate_hash": "40f078460a3fe089de51b4d6f035e18b9b288f46"
+          }
+        },
+        {
+          "client_id": "908019899294-61ec8k7mfu3f8p0ej99eefp2i8q1fpio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUAm_91DemDq95RkozixRvDj7AYqwSNLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908019899294-61ec8k7mfu3f8p0ej99eefp2i8q1fpio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
